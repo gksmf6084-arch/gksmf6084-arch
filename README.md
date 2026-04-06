@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC60&width=435&lines=창업을+꿈꾸는+UIUX+디자이너;TripPick+프로젝트+진행+중;개발하는+기획자+입니다)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC60&width=435&lines=저는+지금+2026년+바이오헬스+아카데미에서;AI를+배우고+있는+최하늘+입니다)
 <!--
 **gksmf6084-arch/gksmf6084-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
