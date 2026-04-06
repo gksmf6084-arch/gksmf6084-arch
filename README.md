@@ -25,4 +25,7 @@
 - 😄 My hobby is 코딩입니다.
 - ⚡ Fun fact: 작은 아이디어로 시작해 큰 성과를 거둬봅시다.
 
+### 🚀 진행 중인 프로젝트 (On-going Project)
+- **[TripPick]** (https://venqyfby.gensparkspace.com/)
+  - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
 
