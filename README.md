@@ -25,6 +25,16 @@
 - 😄 My hobby is 코딩입니다.
 - ⚡ Fun fact: 작은 아이디어로 시작해 큰 성과를 거둬봅시다.
 
+
+### 🛠 활용하는 언어들
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+
 ### 🚀 진행 중인 프로젝트 (On-going Project)
 - **[TripPick]** (https://venqyfby.gensparkspace.com/)
   - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
