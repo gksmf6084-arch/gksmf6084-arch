@@ -36,7 +36,7 @@
 
 
 ### 🚀 진행 중인 프로젝트 (On-going Project)
-- **[TripPick]** (https://venqyfby.gensparkspace.com/)
+1. - **[TripPick]** (https://venqyfby.gensparkspace.com/)
   - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
   - https://github.com/gksmf6084-arch/Trip-Pick (더 자세한 내용은 여기에)
 
