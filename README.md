@@ -40,4 +40,4 @@
    - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
   - https://github.com/gksmf6084-arch/Trip-Pick (더 자세한 내용은 여기에)
 
-2. **[AI-Object-Vision-Lab]** (ai-object-recognition-showcase-final-toggle-refined-score-fixed.html)
+2. 티처블머신을 이용한 사물인식 https://github.com/gksmf6084-arch/ObjectDetectionWithTM  -  **[AI-Object-Vision-Lab]** (ai-object-recognition-showcase-final-toggle-refined-score-fixed.html)
