@@ -33,3 +33,4 @@
 
 2. 티처블머신을 이용한 사물인식 https://github.com/gksmf6084-arch/ObjectDetectionWithTM  -  **[AI-Object-Vision-Lab]** (ai-object-recognition-showcase-final-toggle-refined-score-fixed.html)
 3. 티처블머신을 이용한 사물인식 결과에 따라서 휴머노이드 로봇이 움직이도록 했음 https://github.com/gksmf6084-arch/robotControlWithTM
+4. YOLOv5를 이용한 80가지 사물인식 https://github.com/gksmf6084-arch/yolov5ReadTime
