@@ -29,7 +29,6 @@
 ### 🚀 진행 중인 프로젝트 (On-going Project)
 1.  **[TripPick]** (https://venqyfby.gensparkspace.com/)
    - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
-   - https://github.com/gksmf6084-arch/Trip-Pick (더 자세한 내용은 여기에)
 
 ### 내가 하고 있는 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데 까지 합니다.
 1. 티처블머신을 이용한 사물인식 https://github.com/gksmf6084-arch/ObjectDetectionWithTM
