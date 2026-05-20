@@ -16,15 +16,6 @@
 
 
 
-- 🔭 현재 우송대학교 IT 센터에 있습니다.
-- 🌱 지금 공부하는 것은 바이오헬스 입니다.
-- 👯 I’m looking to collaborate on 아직 팀은 없지만 구하고 있어요.
-- 🤔 I’m looking for help with python을 하는 친구면 좋겠어요.
-- 💬 Ask me about 저는 html css is 전문입니다.
-- 📫 How to reach me: 010-스팸문자예방
-- 😄 My hobby is 코딩입니다.
-- ⚡ Fun fact: 작은 아이디어로 시작해 큰 성과를 거둬봅시다.
-
 
 ### 🛠 활용하는 언어들
 <div align="left">
