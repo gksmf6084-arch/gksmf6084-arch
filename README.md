@@ -31,7 +31,7 @@
    - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
   - https://github.com/gksmf6084-arch/Trip-Pick (더 자세한 내용은 여기에)
 
-## 내가 하고 있는 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데 까지 합니다.
+#### 내가 하고 있는 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데 까지 합니다.
 1. 티처블머신을 이용한 사물인식 https://github.com/gksmf6084-arch/ObjectDetectionWithTM  -  **[AI-Object-Vision-Lab]** (ai-object-recognition-showcase-final-toggle-refined-score-fixed.html)
 2. 티처블머신을 이용한 사물인식 결과에 따라서 휴머노이드 로봇이 움직이도록 했음 https://github.com/gksmf6084-arch/robotControlWithTM
   2.1 여기서 사용한 Serial port 선택하는 것과 로봇 컨트롤 하는 부분을 모듈로 만들 수 있었음
