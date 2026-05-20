@@ -36,4 +36,6 @@
 2. 티처블머신을 이용한 사물인식 결과에 따라서 휴머노이드 로봇이 움직이도록 했음 https://github.com/gksmf6084-arch/robotControlWithTM
   2.1 여기서 사용한 Serial port 선택하는 것과 로봇 컨트롤 하는 부분을 모듈로 만들 수 있었음
 3. YOLOv5를 이용한 80가지 사물인식 https://github.com/gksmf6084-arch/yolov5ReadTime
-4. YOLOv5+ROBOt https://github.com/gksmf6084-arch/202605_001-YoloV5WithRobot
+4. 3.1 위에서 만든 모듈을 이용해서 간편하게 프로그램을 완성했었다.
+5. 3.2 app을 webapp으로 만드는것은 개인 과제였음
+6. YOLOv5+ROBOt https://github.com/gksmf6084-arch/202605_001-YoloV5WithRobot
