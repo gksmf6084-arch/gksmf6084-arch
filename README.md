@@ -41,5 +41,5 @@
 4. YOLOv5+robot https://github.com/gksmf6084-arch/202605_001-YoloV5WithRobot
 
 ### 웹앱으로 구현한 사물인식
-1. YOLO 실시간 사물인식
+1. YOLO 실시간 사물인식 https://gksmf6084-arch.github.io/yolo_webapp/
 2. YOLOv5를 기반으로한 사물 인식 https://gksmf6084-arch.github.io/YOLOv5_robot-control/
