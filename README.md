@@ -1,4 +1,29 @@
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/gksmf6084-arch"
+    width="600"
+    height="300"
+  />
+</a>
+</a>
+</p>
 
+
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="right" valign="middle">
+        <img src="https://github.com/user-attachments/assets/e03f489c-228d-4e2f-9f85-63ca6bec6b09" width="130" style="border-radius: 50%;" alt="최하늘이미지" />
+      </td>
+      <td width="25"></td>
+      <td align="left" valign="middle">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&width=550&height=50&lines=저는+지금+2026년+바이오헬스+아카데미에서;AI를+배우고+있는+최하늘+입니다" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### 🛠 활용하는 언어들
