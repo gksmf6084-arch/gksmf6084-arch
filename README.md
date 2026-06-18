@@ -39,6 +39,8 @@
 1.  **[TripPick]** (https://venqyfby.gensparkspace.com/)
    - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
 
+2.  **[]**
+
 ### 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데까지.
 1. 티처블머신을 이용한 사물인식 https://github.com/gksmf6084-arch/ObjectDetectionWithTM
 2. 티처블머신을 이용한 사물인식결과에 따라 휴머노이드 로봇이 움직이도록 하는 : https://github.com/gksmf6084-arch/robotControlWithTM       
