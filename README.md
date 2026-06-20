@@ -39,7 +39,7 @@
 1.  **[TripPick]** (https://venqyfby.gensparkspace.com/)
    - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
 
-2.  **[TripPick]** ()
+2.  **[TripPick]** (https://gksmf6084-arch.github.io/Wellness_TripPick)
    - 기존에 있던 트립픽에 바이오헬스를 더하여 웰니스 여행앱을 개발 중입니다. 
 
 ### 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데까지.
