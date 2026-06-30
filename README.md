@@ -39,8 +39,11 @@
 1.  **[TripPick]** (https://venqyfby.gensparkspace.com/)
    - 원클릭 맞춤형 여행 플랫폼을 기획 및 개발 중입니다.
 
-2.  **[TripPick]** (https://gksmf6084-arch.github.io/Wellness_TripPick)
-   - 기존에 있던 트립픽에 바이오헬스를 더하여 웰니스 여행앱을 개발 중입니다. 
+2.  **[TripPick]** (https://gksmf6084-arch.github.io/Wellness_TripPick/)
+   - 기존에 있던 트립픽에 바이오헬스를 더하여 웰니스 여행앱을 개발 중입니다.
+
+3. **[History]** (https://gksmf6084-arch.github.io/History_Quiz/)
+   - 한국사 공부를 위해 개발중입니다.
 
 ### 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데까지.
 1. 티처블머신을 이용한 사물인식 https://github.com/gksmf6084-arch/ObjectDetectionWithTM
