@@ -45,7 +45,7 @@
 3. **[History]** (https://gksmf6084-arch.github.io/History_Quiz/)
    - 한국사 공부를 위해 개발중입니다.
   
-4. **[TOEIC]** ()
+4. **[TOEIC]** (https://gksmf6084-arch.github.io/Voca_TOEIC/)
    - 영어 공부를 위해 개발중입니다.
 
 ### 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데까지.
